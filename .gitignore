@@ -1,0 +1,6 @@
+# swap files
+*.swp
+*~
+
+# keys
+.apikey
